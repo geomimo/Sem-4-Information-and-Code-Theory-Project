@@ -1,0 +1,22 @@
+In statistical mechanics, entropy is an extensive property of a thermodynamic system. 
+
+It is closely related to the number O of microscopic configurations (known as microstates) that are consistent with the macroscopic quantities 
+that characterize the system (such as its volume, pressure and temperature). Under the assumption that each microstate is equally probable, 
+the entropy S is the natural logarithm of the number of microstates, multiplied by the Boltzmann constant kB. Formally (assuming equiprobable microstates).
+
+Macroscopic systems typically have a very large number O of possible microscopic configurations. For example, the entropy of an ideal gas is proportional to 
+the number of gas molecules N. The number of molecules in twenty liters of gas at room temperature and atmospheric pressure is roughly N = 6*1023 (the Avogadro number). 
+At equilibrium, each of the O = eN configurations can be regarded as random and equally likely.
+
+The second law of thermodynamics states that the entropy of an isolated system never decreases over time. Such systems spontaneously evolve towards thermodynamic equilibrium, 
+the state with maximum entropy. Non-isolated systems may lose entropy, provided their environment's entropy increases by at least that amount so that the total entropy increases. 
+Entropy is a function of the state of the system, so the change in entropy of a system is determined by its initial and final states. In the idealization that a process is reversible, 
+the entropy does not change, while irreversible processes always increase the total entropy.
+
+Because it is determined by the number of random microstates, entropy is related to the amount of additional information needed to specify the exact physical state of a system, given 
+its macroscopic specification. For this reason, it is often said that entropy is an expression of the disorder, or randomness of a system, or of the lack of information about it. 
+The concept of entropy plays a central role in information theory.
+
+Boltzmann's constant, and therefore entropy, have dimensions of energy divided by temperature, which has a unit of joules per kelvin in the International System of Units. The entropy 
+of a substance is usually given as an intensive property either entropy per unit mass or entropy per unit 
+amount of substance.
